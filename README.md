@@ -1,16 +1,23 @@
-### Hello, I'm Bipul Guchhait! 👋
+### 👋 Hello World! I'm Bipul Guchhait. 👨‍💻
 
-<!--
-**BipulG05/BipulG05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎓 Education
+- MCA graduate in 2023 with a degree in Computer Science from the University of Kalyani.
+- BSc in Computer Science from Mankar College under the University of Burdwan in 2021.
 
-Here are some ideas to get you started:
+#### 💼 Professional Experience
+- Interned as a Trainee Software Developer from Sept '21 to '22, honing skills in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Skills
+- Proficient in C, C++, Java, Python, HTML, CSS, JS, React, Django.
+- Experienced in Data Science using Python.
+
+#### 🌐 Projects
+- Django: E-commerce, News Sorting
+- React: E-commerce Website, LittleTalk Real-Time Messaging
+
+#### 🌟 Passion
+- Leveraging technology to solve real-world problems and staying updated on industry trends.
+
+#### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/bipul-guchhait-4861721b7/)
+- [GitHub](https://github.com/BipulG05)
