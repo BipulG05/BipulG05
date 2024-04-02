@@ -19,5 +19,6 @@
 - Leveraging technology to solve real-world problems and staying updated on industry trends.
 
 #### 🔗 Connect with Me
+- [My Portfolio](https://bipulg05.github.io/My_Portfolio/index.html)
 - [LinkedIn](https://www.linkedin.com/in/bipul-guchhait-4861721b7/)
 - [GitHub](https://github.com/BipulG05)
