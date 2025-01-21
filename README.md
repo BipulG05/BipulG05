@@ -5,6 +5,7 @@
 - BSc in Computer Science from Mankar College under the University of Burdwan in 2021.
 
 #### 💼 Professional Experience
+- Currently employed as a Software Developer at the National Informatics Centre (Kolkata) since April 2024.
 - Interned as a Trainee Software Developer from Sept '21 to '22, honing skills in software development.
 
 #### 🚀 Skills
